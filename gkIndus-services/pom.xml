@@ -12,7 +12,7 @@
   <name>gkIndus-services</name>
   
   <properties>
-		<spring.version>4.1.4.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 	</properties>
   
   <dependencies>
